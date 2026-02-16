@@ -20,6 +20,6 @@ Si el producto que buscas no aparece en esta lista, puedes revisar nuestra tiend
 
 Tienda Online: MCI Electronics - Tarjetas
 
-Soporte Técnico: soporte@mcielectronics.cl
+Soporte Técnico: [soporte@mcielectronics.cl](mailto:soporte@mcielectronics.cl)
 
 ---
