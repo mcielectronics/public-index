@@ -83,9 +83,9 @@ Bienvenido a la Wiki oficial de productos de **MCI Electronics**. Aquí encontra
 
 Si el producto que buscas no aparece en esta lista, puedes revisar nuestra tienda principal o contactarnos directamente:
 
-Tienda Online: MCI Electronics - Tarjetas
+Tienda Online: [MCI Electronics - Productos MCI](https://mcielectronics.cl/shop/category/productos-mci/tarjetas/)
 
-Soporte Técnico: soporte@mcielectronics.cl
+Soporte Técnico: [soporte@mcielectronics.cl](mailto:soporte@mcielectronics.cl)
 
 ---
 
