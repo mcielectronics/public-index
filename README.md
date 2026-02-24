@@ -1,8 +1,9 @@
 # Centro de Documentación MCI Electronics
 
-Bienvenido a la Wiki oficial de productos de **MCI Electronics**. Aquí encontrarás manuales, esquemáticos, librerías y guías de inicio rápido para nuestras tarjetas y módulos.
+Bienvenido a la documentación pública de productos de **MCI Electronics**.
+Aquí encontrarás manuales, esquemáticos, librerías y guías de inicio rápido.
 
-> **Tip:** Puedes presionar `Ctrl + F` (`Cmd + F` en Mac) para buscar el código (SKU) o nombre de tu producto rápidamente.
+> **Tip:** Presioná `Ctrl + F` (`Cmd + F` en Mac) para buscar por código SKU o nombre.
 
 ---
 
@@ -76,16 +77,10 @@ Bienvenido a la Wiki oficial de productos de **MCI Electronics**. Aquí encontra
 - [MCI10796 - LoRa Breakout](https://mcielectronics.github.io/mci10796-public/)
 - [MCI10797 - RPi Zero IO](https://mcielectronics.github.io/mci10797-public/)
 - [MCI10798 - RPi Pico IO](https://mcielectronics.github.io/mci10798-public/)
+- [MCI22222 — Otro nuevo producto](https://mcielectronics.github.io/mci22222-public/)
 
 ---
 
-¿No encuentras tu producto?
+¿No encontrás tu producto? Contactanos: soporte@mcielectronics.cl
 
-Si el producto que buscas no aparece en esta lista, puedes revisar nuestra tienda principal o contactarnos directamente:
-
-Tienda Online: [MCI Electronics - Productos MCI](https://mcielectronics.cl/shop/category/productos-mci/tarjetas/)
-
-Soporte Técnico: [soporte@mcielectronics.cl](mailto:soporte@mcielectronics.cl)
-
----
-
+_Última actualización: 2026-02-24 17:14 — 71 productos documentados._
