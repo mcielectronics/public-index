@@ -77,7 +77,6 @@ Aquí encontrarás manuales, esquemáticos, librerías y guías de inicio rápid
 - [MCI10796 - LoRa Breakout](https://mcielectronics.github.io/mci10796-public/)
 - [MCI10797 - RPi Zero IO](https://mcielectronics.github.io/mci10797-public/)
 - [MCI10798 - RPi Pico IO](https://mcielectronics.github.io/mci10798-public/)
-- [MCI22223 — Prueba vikingo](https://mcielectronics.github.io/mci22223-public/)
 
 ---
 
