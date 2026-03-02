@@ -77,9 +77,10 @@ Aquí encontrarás manuales, esquemáticos, librerías y guías de inicio rápid
 - [MCI10796 - LoRa Breakout](https://mcielectronics.github.io/mci10796-public/)
 - [MCI10797 - RPi Zero IO](https://mcielectronics.github.io/mci10797-public/)
 - [MCI10798 - RPi Pico IO](https://mcielectronics.github.io/mci10798-public/)
+- [MCI44311 — 44311Prueba](https://mcielectronics.github.io/mci44311-public/)
 
 ---
 
 ¿No encontrás tu producto? Contactanos: soporte@mcielectronics.cl
 
-_Última actualización: 2026-02-27 18:48 — 71 productos documentados._
+_Última actualización: 2026-03-02 20:47 — 71 productos documentados._
